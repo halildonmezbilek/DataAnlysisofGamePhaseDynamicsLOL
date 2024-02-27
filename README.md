@@ -16,7 +16,7 @@ Findings reveal patterns in gameplay among winning teams at different skill leve
 The study concludes that while achieving first kills and destroying turrets are important, managing the game economy is a more decisive factor in winning matches. Further research is recommended to explore the impact of specific in-game items on match outcomes.
 
 ## References
-- A list of references supporting this study, including relevant articles can be found at [documentation](https://halildonmezbilek.com/blog/project-data-analysis-of-game-phase-dynamics-and-their-impact-on-match-outcomes-in-league-of-legends).
+- A list of references supporting this study, including relevant articles can be found at [documentation](https://url.halildonmezbilek.com/DataAnlysisofGamePhaseDynamicsLOLDocumentation).
 
 For more detailed analysis and interactive visualizations, visit [my project's website](https://lol.halildonmezbilek.com).
 
